@@ -1,3 +1,4 @@
+# DOWNLOAD THE MODEL USING PROVIDED LINK : https://github.com/visiongeeklabs/human-activity-detection/releases/download/v0.1.0/frozen_inference_graph.pb
 import numpy as np
 import time
 import cv2
